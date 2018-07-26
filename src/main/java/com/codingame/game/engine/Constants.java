@@ -16,7 +16,7 @@ import java.util.HashMap;
  */
 public final class Constants
 {
-  public static int VERBOSE_LEVEL = 3; // 3 - full, 2 - without turn details, 1 - results only, 0 - silent
+  public static int VERBOSE_LEVEL = 0; // 3 - full, 2 - without turn details, 1 - results only, 0 - silent
 
   public static final int CARDS_IN_DECK = 30; // 30;
   public static final int CARDS_IN_DRAFT = 60; // 60;
