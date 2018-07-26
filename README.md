@@ -1,3 +1,5 @@
+Compiled, ready to run version: https://github.com/fala13/LegendsOfCodeAndMagic_Artifacts
+
 To compile run:
 mvn package
 
